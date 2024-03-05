@@ -1,5 +1,5 @@
 # renhaitao123.github.io
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=renhaitao123)
+![renhaitao's GitHub stats](https://github-readme-stats.vercel.app/api?username=renhaitao123&show_icons=true&theme=tokyonight)
 
 
 talk is cheap  show me the code 
