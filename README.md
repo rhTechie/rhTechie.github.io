@@ -7,11 +7,10 @@
 <br>
 
     
-  ![Visitor Count](https://profile-counter.glitch.me/renhaitao123/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/renhaitao123/count.svg)
 
 ![ByteSpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=renhaitao123&show_icons=true&theme=tokyonight)
 
-</div>
 
 
 
