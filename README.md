@@ -1,4 +1,15 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi%2C+I'm+Ren+haitao+%21;Welcome+to+my+GitHub+profile+&#x2B50" width="70%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=renhaitao123&show_icons=true&theme=tokyonight" alt="ByteSpark's GitHub stats">
+# I'm Ren HaiTao
+
+- 💻 Currently working in NanJing, China.
+- 💬 Ask me about my projects on [1984754817@qq.com](mailto:1984754817@qq.com)
+- 🚴 Cycling Enthusiast
+
+# Project
+
+- [SylixOS_blog：整理学习 Sylixos 相关博客](https://github.com/renhaitao123/SylixOS_blog)
+
+- [OctoMapPy：实现了 OctoMap 基础框架，并附带其可视化工具及 RRT 路径规划算法](https://github.com/SEU-NetSI/OctoMapPy)
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api?username=renhaitao123&show_icons=true" alt="ByteSpark's GitHub stats">
