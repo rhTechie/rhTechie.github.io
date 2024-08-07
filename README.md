@@ -10,6 +10,4 @@
 
 - [OctoMapPy：实现了 OctoMap 基础框架，并附带其可视化工具及 RRT 路径规划算法](https://github.com/SEU-NetSI/OctoMapPy)
 
-  
-
-<img src="https://github-readme-stats.vercel.app/api?username=renhaitao123&show_icons=true" alt="ByteSpark's GitHub stats">
+  ![github stats](https://github-readme-stats.vercel.app/api?username=renhaitao123&show_icons=true)
