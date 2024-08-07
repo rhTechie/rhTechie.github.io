@@ -1,10 +1,10 @@
-# I'm Ren HaiTao
+## I'm Ren HaiTao
 
 - 💻 Currently working in NanJing, China.
 - 💬 Ask me about my projects on [1984754817@qq.com](mailto:1984754817@qq.com)
 - 🚴 Cycling Enthusiast
 
-# Projects
+## Projects
 
 - [SylixOS_blog：整理学习 Sylixos 相关博客](https://github.com/renhaitao123/SylixOS_blog)
 
