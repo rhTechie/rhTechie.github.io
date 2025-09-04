@@ -6,8 +6,8 @@
 
 ## Projects
 
-- [SylixOS_blog：整理学习 Sylixos 相关博客](https://github.com/renhaitao123/SylixOS_blog)
+- [SylixOS_blog：整理学习 Sylixos 相关博客](https://github.com/rhTechie/SylixOS_blog)
 
 - [OctoMapPy：实现了 OctoMap 基础框架，并附带其可视化工具及 RRT 路径规划算法](https://github.com/SEU-NetSI/OctoMapPy)
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=renhaitao123&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=rhTechie&show_icons=true)
